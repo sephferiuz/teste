@@ -1,1 +1,1 @@
-https://multipools.trade/token/0x293fd44867e328c549c004496a943116bc0ac7e3
+0xa0c0142bdaa7f004c0f1d64e058e0d351dad8acc
