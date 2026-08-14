@@ -1,1 +1,2 @@
-ROBO - 0x8b48e9da0501a3556a961463fcf39bb426501d0d
+turc
+https://gmgn.ai/robinhood/token/0xca526230d1840c096d581bcd994f46f758a25c0d
